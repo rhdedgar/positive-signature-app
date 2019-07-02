@@ -7,7 +7,7 @@ from bottle import route, run
 def index():
     return "SELECT kanj, von, vkun, transl, roma FROM info WHERE"
 
-@route('/')
+@route('/other')
 def index():
     return "<title>Sign in or Register | eBay</title>"
 
