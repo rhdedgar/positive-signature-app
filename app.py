@@ -21,7 +21,6 @@ __author__ = 'dedgar'
 #AfTYLHREmS2hROTn9UIrGyVMqy2eY8JKZAVXJyDNEHeQ0NuUZdczpjeqeIj+jX5h8njZmhqGvRc9
 #UD4Xjkb+XwKZz3VaFTxl5q18InLMt/aovBnikQD49QiXGqIt9LGzDvSJmMOCXhdjamLm4+Gg5bmD
 #BDkebnxJlCl2DRnfy+QTG+p18UQk+OXXp1NdGZyyeenwvQ6ZaPWDiFUdsCEdNLiCu5jz2RCLOJYM
-#aLXaUdQOl7SJ3bK9ZNsZb/i<title>Sign in or Register | eBay</title>aYx0abcjHHdDuf4APOdZUMP35gY4pXrpnF96gCtuj4+vVsK/DozWG
 #ZqqbhjpF5wNLXnlbCSBEjmGQ4ewhuzwQ7NfBMXg0Ak9Fk+6KjZdBRYKBXJebCIAedfsUIXnE61O8
 #jQyPGgC0nVtUFQJ5ExRx0W+Vm8TxPXn0UtbimPpTjsHIEbQpm0U8rbgSTo6XLe67Im1zAXO4f+W5
 #I0HCJOEqi835dSNfj3UehfYA34ISFz3xi1ieIW6Ws8cQ925FHQbY4yY+kzLHbRt1dwX9nh8/m3Od
@@ -370,7 +369,7 @@ def index():
 
 @route('/other')
 def index():
-    return "<title>Sign in or Register | eBay</title>"
+    return "QSB2ZXJ5IGxvbmcgc3RyaW5nIHRoYXQncyB1bmxpa2VseSB0byB0cmlnZ2VyIGFueSBmYWxzZSBwb3NpdGl2ZXMgaW4gdGhlIE9wZW5TaGlmdCBlbnZpcm9ubWVudAo="
 
 
 if __name__ == '__main__':
